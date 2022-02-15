@@ -1,0 +1,5 @@
+export const ADD_TODO = "addTodo"
+export const DELETE_TODO = "deleteTodo"
+export const UPDATE_CHECKBOX = "updateCheckbox"
+export const DELETE_SELECTED = "deleteSelected"
+export const SHOWDETAIL = "showDetail"
